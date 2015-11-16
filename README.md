@@ -4,12 +4,12 @@
 [![travis][travis-image]][travis-url]
 [![coverage][coverage-image]][coverage-url]
 
-[npm-image]: https://img.shields.io/npm/v/truthy.svg?style=flat-square
-[npm-url]: https://www.npmjs.com/package/truthy
+[npm-image]: https://img.shields.io/npm/v/@bret/truthy.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/@bret/truthy
 [travis-image]: https://img.shields.io/travis/bcomnes/truthy.svg?style=flat-square
 [travis-url]: https://travis-ci.org/bcomnes/truthy
-[coverage-image]: https://img.shields.io/codeclimate/coverage/github/bcomnes/@bret/truthy.svg?style=flat-square
-[coverage-url]: https://codeclimate.com/github/bcomnes/@bret/truthy
+[coverage-image]: https://img.shields.io/codeclimate/coverage/github/bcomnes/truthy.svg?style=flat-square
+[coverage-url]: https://codeclimate.com/github/bcomnes/truthy
 
 
 Determines if something should be considered a synonym for `true`.
