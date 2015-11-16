@@ -19,13 +19,13 @@ A modularized version of the `truthy` function found in [*Functional Javascript*
 ## Install
 
 ```
-npm install truthy
+$ npm i @bret/truthy --save
 ```
 
 ## Usage
 
 ```js
-var truthy = require('truthy')
+var truthy = require('@bret/truthy')
 truthy(false) // false
 truthy(undefined) // false
 truthy(0) // true
