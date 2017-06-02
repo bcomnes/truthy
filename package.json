@@ -10,7 +10,7 @@
     "existy": "^1.0.0"
   },
   "devDependencies": {
-    "codeclimate-test-reporter": "^0.4.1",
+    "codeclimate-test-reporter": "^0.5.0",
     "istanbul": "^0.4.0",
     "snazzy": "^7.0.0",
     "standard": "*",
