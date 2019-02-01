@@ -7,7 +7,7 @@ test('truthy js types are truthy', function (t) {
     [],
     ['beep'],
     {},
-    {beep: 'boop'},
+    { beep: 'boop' },
     true,
     10,
     0,
